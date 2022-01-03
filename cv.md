@@ -28,7 +28,7 @@
 ## Experience
 [CV with Markdown](https://github.com/Waterlass/rsschool-cv/blob/gh-pages/cv.md)
 ## Education
-* *University:*
+* *University:* V. N. Karazin Kharkiv National University, Phylology Department, Master's degree in Classical languages and literatures, English language and literature
 * *Courses:*
   + Responsive Web Design from [FreeCodeCamp](https://www.freecodecamp.org/learn/responsive-web-design/) except 1 project
   + JavaScript Algorithms and Data Structures [FreeCodeCamp](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/) in process
@@ -40,7 +40,7 @@
   + "Head First. HTML and CSS" O'Reilly
   + "Responsive Web Design with HTML5 and CSS3" Frain B. (not finished)
 ## Languages
-* *English Upper*-Intermediate/Advanced
+* *English* Upper-Intermediate/Advanced
 * *Russian* - Native
 * *Ukrainian* - Proficiency
 * *Spanish* - Elementary
