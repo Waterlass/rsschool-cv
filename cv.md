@@ -1,7 +1,8 @@
 # ELMIRA GASANOVA #
 *JUNIOR FRONTEND DEVELOPER*
 
-![Photo](https://user-images.githubusercontent.com/43781679/147956358-cb1f160e-58a7-4914-a29d-42b91e57cf99.jpg)
+![Photo](https://user-images.githubusercontent.com/43781679/147974788-4767e90e-36a1-4b6f-bae5-8e51ceec5892.jpg)
+
 
 -----
 ## Contacts
