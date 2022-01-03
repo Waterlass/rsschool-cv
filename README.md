@@ -1,4 +1,2 @@
 # rsschool-cv
-
-
-[CV HTML&CSS](https://waterlass.github.io/rsschool-cv/)
+[CV HTML&CSS](https://waterlass.github.io/rsschool-cv/rsschool-cv-html/cv)
