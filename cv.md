@@ -29,6 +29,7 @@
 [CV with Markdown](https://github.com/Waterlass/rsschool-cv/blob/gh-pages/cv.md)
 ## Education
 * *University:* V. N. Karazin Kharkiv National University, Phylology Department, Master's degree in Classical languages and literatures, English language and literature
+=======
 * *Courses:*
   + Responsive Web Design from [FreeCodeCamp](https://www.freecodecamp.org/learn/responsive-web-design/) except 1 project
   + JavaScript Algorithms and Data Structures [FreeCodeCamp](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/) in process
