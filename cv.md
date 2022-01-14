@@ -30,7 +30,22 @@ I started learning FronEnd a few years ago on my own with little knowledge of de
 
 ## Code examples
  ```
- 
+ // Convert a String to a Number:
+ var stringToNumber = function(str){
+  return +str;
+}
+
+// Convert a Number to a String:
+function numberToString(num) {
+  return String(num);
+}
+
+// Capitalization and Mutability:
+function capitalizeWord(word) {
+  const firstLetter = word[0].toUpperCase();
+  const slicedWord = word.slice(1);
+  return (firstLetter + slicedWord);
+}
  ```
 ## Experience
 [CV](https://github.com/Waterlass/rsschool-cv/blob/gh-pages/cv.md)
