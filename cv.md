@@ -1,7 +1,7 @@
 # ELMIRA GASANOVA #
 *JUNIOR FRONTEND DEVELOPER*
 
-![Photo](https://user-images.githubusercontent.com/43781679/147974788-4767e90e-36a1-4b6f-bae5-8e51ceec5892.jpg)
+![Photo](https://user-images.githubusercontent.com/43781679/149542459-4a8796bf-9d50-4128-8a1d-8e6a97957f8d.jpg)
 
 
 -----
@@ -15,6 +15,11 @@
 * *Skype:* 
 -----
 ## About me
+My immediate goal is to gain sufficient web application development skills to qualify for a Junior FrontEnd Developer position.
+
+My strengths are: I am open-minded, have thirst for knowledge and high motivation to grow, the ability to plan and structure information, to see the potential and connections.
+
+I started learning FronEnd a few years ago on my own with little knowledge of development. Then there was a break and I decided to continue my studies, but this time to reach the end.
 
 ## Skills
 1. HTML5
