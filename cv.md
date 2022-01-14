@@ -48,8 +48,7 @@ function capitalizeWord(word) {
 }
  ```
 ## Experience
-[CV](https://github.com/Waterlass/rsschool-cv/blob/gh-pages/cv.md)
-
+[CV](https://waterlass.github.io/rsschool-cv/cv) 
 ## Education
 * *University:* 
   + V. N. Karazin Kharkiv National University, Phylology Department, Master's degree in Classical languages and literatures, English language and literature, 2011-2017
