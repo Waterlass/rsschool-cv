@@ -3,7 +3,6 @@
 
 ![Photo](https://user-images.githubusercontent.com/43781679/149542459-4a8796bf-9d50-4128-8a1d-8e6a97957f8d.jpg)
 
-
 -----
 ## Contacts
 * *Location:* Kharkiv, Ukraine
@@ -25,7 +24,7 @@ I started learning FronEnd a few years ago on my own with little knowledge of de
 1. HTML5
 2. CSS3
 3. JavaScript Basic
-4. Git, GitHub
+4. Git, GitHub basics
 5. VS Code, Notepad++
 6. PhotoScape X
 
