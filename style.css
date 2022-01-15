@@ -1,6 +1,13 @@
 /* Позиционирование */
 
 /* Блочная модель */
+* {
+  box-sizing: border-box;
+}
+
+section {
+  margin: 0;
+}
 
 /* Типографика */
 @font-face {
@@ -16,6 +23,7 @@
 body {
   font-family: "Rubik", sans-serif;
   font-weight: 300;
+  color: #2d5f71;
 }
 
 h1 {
@@ -29,8 +37,12 @@ h1 {
   font-weight: 300;
 }
 
-/* Оформление */
+/* aside {
+  background-color: #c0d1d4; #d5e0e3; #eaf0f1;
+*/
 
+/* Оформление */
+/* background-color: #2d5f71; */
 /* Анимация */
 
 /* Разное */
