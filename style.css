@@ -1,23 +1,33 @@
-@font-face {
-  font-family: "Montserrat";
-  src: url("assets/fonts/Montserrat-VariableFont_wght.ttf");
-  font-weight: 400;
-}
-@font-face {
-  font-family: "Montserrat";
-  src: url("assets/fonts/Montserrat-VariableFont_wght.ttf");
-  font-weight: 600;
-}
-@font-face {
-  font-family: Montserrat;
-  src: url("assets/fonts/Montserrat-Italic-VariableFont_wght.ttf");
-  font-weight: 200;
-}
 /* Позиционирование */
 
 /* Блочная модель */
 
 /* Типографика */
+@font-face {
+  font-family: "Rubik", sans-serif;
+  src: url("assets/fonts/static/Rubik-VariableFont_wght.ttf");
+}
+
+@font-face {
+  font-family: "Rubik", sans-serif;
+  src: url("assets/fonts/static/Rubik-Italic-VariableFont_wght.ttf");
+}
+
+body {
+  font-family: "Rubik", sans-serif;
+  font-weight: 300;
+}
+
+h1 {
+  font-family: "Rubik", sans-serif;
+  font-weight: 700;
+}
+
+.position {
+  font-family: "Rubik", sans-serif;
+  font-style: italic;
+  font-weight: 300;
+}
 
 /* Оформление */
 
