@@ -15,10 +15,15 @@ body {
 }
 
 .container {
-  max-width: 1440px;
+  display: flex;
+  /*max-width: 1440px;*/
   margin: 0 auto;
 }
 
+.general,
+.personal {
+  flex-grow: 1;
+}
 /* Типографика */
 @font-face {
   font-family: "Rubik", sans-serif;
