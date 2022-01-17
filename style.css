@@ -14,16 +14,60 @@ body {
   padding: 0;
 }
 
-.container {
+/*.container {
   display: flex;
-  /*max-width: 1440px;*/
+  min-height: 100vh;
+  max-width: 1440px;
   margin: 0 auto;
+}*/
+
+.aside,
+.info {
+  display: flex;
+  flex-direction: row;
 }
 
-.general,
-.personal {
-  flex-grow: 1;
+.personal,
+.general {
+  display: flex;
+  flex-direction: column;
+  flex: 1;
 }
+
+.photo {
+  display: flex;
+  flex-direction: row;
+  flex: 1;
+  flex-wrap: nowrap;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.contacts {
+  display: flex;
+  flex-direction: column;
+  flex: 1;
+  justify-content: center;
+  align-items: center;
+}
+
+.profile {
+  justify-content: center;
+  align-items: center;
+}
+
+.nav-list {
+  list-style: none;
+  display: flex;
+  justify-content: flex-end;
+}
+
+.nav-item {
+  padding: 0 20px;
+  line-height: 50px;
+  align-items: center;
+}
+
 /* Типографика */
 @font-face {
   font-family: "Rubik", sans-serif;
@@ -44,33 +88,53 @@ body {
 h1 {
   font-family: "Rubik", sans-serif;
   font-weight: 700;
+  font-size: 1.5em;
 }
 
-.position {
+.profile {
   font-family: "Rubik", sans-serif;
   font-style: italic;
   font-weight: 300;
+  font-size: 1.5em;
 }
 
 /* aside {
-  background-color: ; #d5e0e3; #eaf0f1;
+  background-color: ; #d5e0e3; #eaf0f1; #2d5f71
 */
 
 /* Оформление */
-header,
-footer {
-  background-color: #71c9ce;
+.header,
+.footer {
+  background-color: #07474e;
 }
 
-.general {
-  background-color: #edf5f5;
+.footer,
+.contacts {
+  color: #d5e0e3;
 }
 
-.personal {
+.aside {
   background-color: #084f57;
   color: #ffffff;
 }
-/* background-color: #2d5f71; */
+
+.info {
+  background-color: #edf5f5;
+  color: #084f57;
+}
+
+li > a {
+  text-decoration: none;
+  color: #d5e0e3;
+  transition: 0.3s;
+}
+
 /* Анимация */
+.nav-item a:hover {
+  background-color: #084f57;
+  color: #ffffff;
+  padding: 20px 0;
+  border-radius: 5px;
+}
 
 /* Разное */
