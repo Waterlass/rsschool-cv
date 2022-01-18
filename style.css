@@ -14,7 +14,7 @@ body {
   padding: 0;
 }
 
-.aside,
+.profile,
 .info {
   display: flex;
   flex-direction: row;
@@ -41,7 +41,8 @@ body {
   align-items: center;
 }
 
-.contacts {
+.contacts,
+.name {
   display: flex;
   flex-direction: column;
   flex: 1;
@@ -49,7 +50,8 @@ body {
   align-items: center;
 }
 
-.profile {
+.profile,
+.photo {
   justify-content: center;
   align-items: center;
 }
@@ -72,12 +74,13 @@ body {
     flex-wrap: wrap;
   }
 
-  .aside,
+  .profile,
   .info {
     flex-direction: column;
   }
 
   .photo,
+  .name,
   .contacts,
   .personal,
   .general {
@@ -113,7 +116,7 @@ h1 {
   font-size: 1.5em;
 }
 
-.profile {
+.name {
   font-family: "Rubik", sans-serif;
   font-style: italic;
   font-weight: 300;
@@ -136,7 +139,7 @@ span {
   color: #d5e0e3;
 }
 
-.aside {
+.profile {
   background-color: #084f57;
   color: #ffffff;
 }
