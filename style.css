@@ -146,6 +146,11 @@ span {
   color: #084f57;
 }
 
+.main-link > a {
+  color: #084f57;
+  text-decoration: underline;
+}
+
 li > a {
   text-decoration: none;
   color: #d5e0e3;
@@ -164,6 +169,23 @@ li > a {
 /* для плавной прокрутки к элементу по ссылке-якорю*/
 html {
   scroll-behavior: smooth;
+}
+
+.main-link a:visited {
+  color: #084f57;
+}
+
+.main-link a:hover {
+  background-color: #084f57;
+  color: #ffffff;
+  padding: 20px 0;
+  border-radius: 5px;
+  transition: 0.5s;
+}
+
+.main-link a:active {
+  background-color: #053a3f;
+  color: #ffffff;
 }
 
 /* Разное */
