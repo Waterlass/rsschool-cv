@@ -12,6 +12,8 @@ body {
   min-height: 100vh;
   margin: 0;
   padding: 0;
+  font-size: 20px;
+  line-height: 1.5;
 }
 
 .profile,
@@ -26,6 +28,7 @@ body {
   flex-direction: column;
   flex: 1;
   text-align: justify;
+  padding-left: 20px;
 }
 
 .general {
@@ -59,7 +62,7 @@ body {
 .nav-list {
   list-style: none;
   display: flex;
-  justify-content: flex-end;
+  justify-content: space-around;
 }
 
 .nav-item {
@@ -151,7 +154,6 @@ span {
 
 .main-link > a {
   color: #084f57;
-  text-decoration: underline;
 }
 
 li > a {
