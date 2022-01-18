@@ -58,7 +58,7 @@ function capitalizeWord(word) {
 
 ## Experience
 
-[CV](https://github.com/Waterlass/rsschool-cv/blob/gh-pages/cv.md)
+[CV](https://waterlass.github.io/rsschool-cv/cv) 
 
 ## Education
 
