@@ -31,6 +31,10 @@ body {
   padding-left: 20px;
 }
 
+.personal {
+  padding-right: 20px;
+}
+
 .general {
   padding-left: 20px;
 }
@@ -59,7 +63,8 @@ body {
   align-items: center;
 }
 
-.nav-list {
+.nav-list,
+.footer-list {
   list-style: none;
   display: flex;
   justify-content: space-around;
@@ -193,4 +198,28 @@ html {
   color: #ffffff;
 }
 
+.footer-item {
+  padding: 0 20px;
+  line-height: 50px;
+  align-items: center;
+}
+
+.footer-link a:hover {
+  background-color: #084f57;
+  color: #ffffff;
+  padding: 20px 0;
+  border-radius: 5px;
+  transition: 0.5s;
+  border-top: 2px solid #d5e0e3;
+  border-bottom: 2px solid #d5e0e3;
+}
+
+.footer-link a:active {
+  background-color: #053a3f;
+  color: #ffffff;
+}
+
+a > img {
+  height: 40px;
+}
 /* Разное */
