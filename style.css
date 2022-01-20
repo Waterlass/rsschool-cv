@@ -74,7 +74,7 @@ body {
   justify-content: space-around;
 }
 
-.nav-link {
+.nav-item {
   padding: 0 20px;
   line-height: 50px;
   align-items: center;
@@ -172,7 +172,7 @@ li > a {
 }
 
 /* Анимация */
-.nav-link:hover {
+.nav-list a:hover {
   background-color: #084f57;
   color: #ffffff;
   padding: 20px 0;
